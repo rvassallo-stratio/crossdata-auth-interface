@@ -7,20 +7,24 @@ package com.stratio.crossdata.security
 
 case class Resource(instances: Seq[String], resourceType: ResourceType, name: String)
 
-sealed trait ResourceType{
+sealed trait ResourceType {
   def name(): String
 }
 
-case object DatabaseResource extends ResourceType{
+case object DatabaseResource extends ResourceType {
   override def name(): String = "database"
 }
 
-case object TableResource extends ResourceType{
+case object TableResource extends ResourceType {
   override def name(): String = "table"
 }
 
-case object DatastoreResource extends ResourceType{
+case object DatastoreResource extends ResourceType {
   override def name(): String = "datastore"
+}
+
+case object ColumnResource extends ResourceType {
+  override def name(): String = "column"
 }
 
 object Resource {

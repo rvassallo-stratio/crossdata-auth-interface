@@ -19,3 +19,5 @@ case object Create extends Action
 case object Drop extends Action
 
 case object Cache extends Action
+
+case object FilterColumn extends Action

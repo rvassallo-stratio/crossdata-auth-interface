@@ -15,4 +15,8 @@ trait CrossdataSecurityManager {
 
   def audit(auditEvent: AuditEvent): Unit
 
+  def filterColumns(userId: String, resources: List[Resource]): List[Resource]
+
+  def filterRows(userId: String, resource: Resource): Option[String]
+
 }

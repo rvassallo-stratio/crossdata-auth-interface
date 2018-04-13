@@ -54,6 +54,16 @@
             <name>Unai Sarasola</name>
             <email>usarasola at stratio dot com</email>
         </developer>
+        <developer>
+            <id>mafernandez-stratio</id>
+            <name>Miguel Angel Fernandez Diaz</name>
+            <email>mafernandez at stratio dot com</email>
+        </developer>
+        <developer>
+            <id>rvassallo-stratio</id>
+            <name>Roque Vassal'lo Saco</name>
+            <email>rvassallo at stratio dot com</email>
+        </developer>
     </developers>
 
     <properties>
