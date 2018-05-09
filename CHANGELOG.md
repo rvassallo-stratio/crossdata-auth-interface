@@ -2,7 +2,8 @@
 
 ## 0.3.0 (upcoming)
 
-* Pending changelog
+* Added column as resource
+* Added FilterColumn as action
 
 ## 0.2.0 (June 16, 2017)
 
