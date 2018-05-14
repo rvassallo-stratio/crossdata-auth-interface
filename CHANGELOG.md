@@ -1,9 +1,5 @@
 # Changelog
 
-## 0.4.0 (upcoming)
-
-* Pending changelog
-
 ## 0.3.0 (upcoming)
 
 * Added column as resource
