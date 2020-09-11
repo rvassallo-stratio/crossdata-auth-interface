@@ -2,7 +2,7 @@
 
 ## 0.7.0 (upcoming)
 
-* Pending changelog
+* Added getInfo to retrieve internal properties 
 
 ## 0.6.0-92d5522 (Built: February 14, 2020 | Pre-release)
 

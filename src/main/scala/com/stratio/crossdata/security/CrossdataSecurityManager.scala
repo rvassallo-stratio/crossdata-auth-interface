@@ -19,4 +19,6 @@ trait CrossdataSecurityManager {
 
   def filterRows(userId: String, resource: Resource): Option[String]
 
+  def getInfo(): Map[String, String]
+
 }
