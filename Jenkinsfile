@@ -13,6 +13,6 @@ hose {
     SFTP_UPLOAD_SKIP = true
     DEV = { config ->
         doPackage(config)
-        doDeploy(config)            
+        doDeploy(config)
     }
 }

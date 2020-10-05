@@ -35,6 +35,26 @@ case object ServiceImpersonationResource extends ResourceType {
   override def name(): String = "impersonator"
 }
 
+case object BdlDomain extends ResourceType {
+  override def name(): String = "bdlDomain"
+}
+
+case object BdlBusinessResource extends ResourceType {
+  override def name(): String = "bdlBusinessResource"
+}
+
+case object BdlTechnicalResource extends ResourceType {
+  override def name(): String = "bdlTechnicalResource"
+}
+
+case object BdlBusinessField extends ResourceType {
+  override def name(): String = "bdlBusinessField"
+}
+
+case object BdlTechnicalField extends ResourceType {
+  override def name(): String = "bdlTechnicalField"
+}
+
 object Resource {
   val CrossdataClusterNameEnvVar = "CROSSDATA_CLUSTER_NAME"
   val AllResourceName = "*"

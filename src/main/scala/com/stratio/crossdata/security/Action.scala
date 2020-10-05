@@ -25,3 +25,14 @@ case object Bind extends Action
 case object FilterColumn extends Action
 
 case object Other extends Action
+
+/**BDL actions*/
+case object Insert extends Action
+
+case object Delete extends Action
+
+case object Update extends Action
+
+case object FilterRow extends Action
+
+

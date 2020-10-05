@@ -3,6 +3,7 @@
 ## 0.7.0 (upcoming)
 
 * Added getInfo to retrieve internal properties 
+* Added Domain Authorization resources
 
 ## 0.6.0-92d5522 (Built: February 14, 2020 | Pre-release)
 
