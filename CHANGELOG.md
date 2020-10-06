@@ -5,7 +5,7 @@
 * Added getInfo to retrieve internal properties 
 * Added Domain Authorization resources
 
-## 0.6.0-92d5522 (Built: February 14, 2020 | Pre-release)
+## 0.6.0-add7959 (Built: October 06, 2020 | Pre-release)
 
 * Added udf as resource
 
