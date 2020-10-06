@@ -1,6 +1,10 @@
 # Changelog
 
-## 0.7.0 (upcoming)
+## 0.8.0 (upcoming)
+
+* Pending changelog
+
+## 0.7.0-81a8ea7 (Built: October 06, 2020 | Pre-release)
 
 * Added getInfo to retrieve internal properties 
 * Added Domain Authorization resources
