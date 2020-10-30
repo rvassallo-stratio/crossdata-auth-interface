@@ -19,6 +19,7 @@ sonar-project.properties
 atlassian-ide-plugin.xml
 *.cache
 target/
+*/target
 /out
 .DS_Store
 **/xdhistory.txt
