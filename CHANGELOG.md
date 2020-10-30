@@ -2,13 +2,12 @@
 
 ## 0.8.0 (upcoming)
 
-* Pending changelog
+* [CROSSDATA-2776] Add cross-compile feature
 
 ## 0.7.0-81a8ea7 (Built: October 06, 2020 | Released: October 14, 2020)
 
 * Added getInfo to retrieve internal properties 
 * Added Domain Authorization resources
-* Add cross-compile feature
 
 ## 0.6.0-add7959 (Built: October 06, 2020 | Pre-release)
 
